@@ -1,2 +1,2 @@
 # Knowledge-Graphp-Learning-Group
-1111
+该知识图谱小组由东北大学计算机科学与工程学院导师任飞亮老师发起
