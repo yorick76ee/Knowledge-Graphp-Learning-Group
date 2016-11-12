@@ -1,0 +1,5 @@
+1、train.txt为WN11数据，用来进行link prediction和triplet classification任务；
+2、要求：
+   1）为train.txt中的每一个实体，分配一个唯一的Id值；  ==》结果保存为一个文件
+   2）为train.txt中的每一个关系，分配一个唯一的Id值；  ==》结果保存为一个文件
+   3）为每一个关系，统计其连接的三元组个数、头实体个数、尾实体个数  ==》结果保存为一个文件

@@ -1,0 +1,11 @@
+_type_of	00001
+_synset_domain_topic	00002
+_has_instance	00003
+_member_holonym	00004
+_part_of	00005
+_has_part	00006
+_member_meronym	00007
+_similar_to	00008
+_subordinate_instance_of	00009
+_domain_region	00010
+_domain_topic	00011
